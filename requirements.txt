@@ -1,0 +1,12 @@
+fastmcp
+llama-index-core
+llama-index-llms-openai
+duckduckgo_search
+httpx
+pydantic
+airportsdata
+python-dateutil
+rich
+openai
+playwright
+pillow

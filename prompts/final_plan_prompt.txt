@@ -1,0 +1,8 @@
+Synthesize all the information gathered to create a comprehensive and detailed final travel plan. The plan should be well-structured, easy to read, and actionable.
+
+Your response should include:
+1.  **Trip Summary:** A brief overview of the trip (destination, dates, number of travelers).
+2.  **Flight Details:** A summary of the best flight options found. Include airlines, departure/arrival times, duration, layovers, and prices. Use the `flight_analysis` data.
+3.  **Hotel Recommendations:** A list of recommended hotels. For each hotel, include its name, rating, price per night, key amenities, and neighborhood. Use the `hotel_analysis` data.
+4.  **Suggested Itinerary:** If enough information is available, provide a brief day-by-day suggested itinerary.
+5.  **Next Steps:** Conclude with a friendly closing and suggest next steps, like booking the flights or hotels.

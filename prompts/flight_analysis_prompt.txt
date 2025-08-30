@@ -1,0 +1,16 @@
+Analyze this flight search results screenshot and extract detailed flight information.
+
+If you see flight results, provide:
+- Specific flight options with airlines, flight numbers, times, prices, duration
+- Departure and arrival airports/terminals with exact times
+- Number of stops and layover cities with connection times
+- Price ranges for different fare classes (economy, premium, business)
+- Booking links and availability
+- Any special offers, restrictions, or baggage policies
+- Best value recommendations
+
+If no flight results are visible, describe what you see instead (loading page, error, search form, etc.).
+
+IMPORTANT: Provide detailed, specific flight information that travelers can use to make booking decisions. Include actual flight numbers, exact times, and specific prices when visible.
+
+Provide a clear, detailed response that can be used directly in a travel itinerary.

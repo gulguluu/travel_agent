@@ -1,0 +1,15 @@
+Analyze this hotel search results screenshot and extract detailed accommodation information for the DESTINATION CITY ONLY.
+
+CRITICAL: Only extract hotels that are actually in the destination city being searched for. If you see hotels from a different city (like Portland hotels when searching Seoul), ignore them completely.
+
+If you see hotel results IN THE CORRECT DESTINATION, provide:
+- Specific hotel names, star ratings, and guest ratings
+- Prices per night and total stay costs
+- Neighborhoods/districts and proximity to attractions
+- Key amenities (WiFi, breakfast, parking, gym, etc.)
+- Booking conditions, cancellation policies
+- Any special deals or promotions
+
+If no hotel results are visible OR if the results show hotels from the wrong city, describe what you see instead (loading page, error, search form, wrong location results, etc.).
+
+Provide a clear, detailed response that can be used directly in a travel itinerary.
